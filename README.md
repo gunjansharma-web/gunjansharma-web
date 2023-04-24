@@ -38,7 +38,8 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="Github" height="50" /></a>
     <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" alt="sass" height="50" /></a>
-        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="tailwindCSS" height="50" /></a> 
+        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="tailwindCSS" height="50" /></a>
+          <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vscode" height="50" /></a> 
 </div>
 
 
