@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Portfolio website](https://github.com/gunjansharma-web/my-portfolio)  
   
 
-- 🌱 I’m currently learning frontend development and web designing  
+- 🌱 I’m learning frontend development and web designing  
   
 
 - ❓ Ask me about anything related to frontend and web designing.  
